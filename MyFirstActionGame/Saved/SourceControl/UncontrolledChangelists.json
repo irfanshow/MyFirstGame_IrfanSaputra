@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Fab/Blaster_E-11__Star_Wars_/BlasterMetalMaterial.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Fab/Blaster_E-11__Star_Wars_/SK_BlasterE11.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Fab/Blaster_E-11__Star_Wars_/SKM_BlasterE11.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Fab/Blaster_E-11__Star_Wars_/SM_BlasterE11.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Blueprint/BP_CloneCharacter.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Blueprint/Weapon/BP_Blaster_E11.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Blueprint/Weapon/BP_Weapon_Data.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Blueprint/Weapon/DA_Blaster_E11.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Map/MainLevel.umap",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Assets/Laser_Bullet/Cylinder_89BFFC5F.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Assets/Laser_Bullet/SM_Laser_Bullet.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Blueprint/BP_Laser_Bullet.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Assets/Laser_Bullet/M_Laser_Bullet.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Assets/Animations/AM_Shoot.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Assets/Animations/ABP_CloneTrooper.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Assets/Clone_Trooper/CloneTrooper_Skeleton.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Assets/Animations/Fire_Rifle_Ironsights.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Blueprint/BP_Blaster_E11.uasset",
+				"D:/UE Project/MyFirstGame_IrfanSaputra/MyFirstActionGame/Content/Blueprint/BP_Weapon_Data.uasset"
 			]
 		}
 	]
