@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+MyFirstActionGame/Saved/Telemetry/Telemetry.json
+MyFirstActionGame/Saved/Logs/MyFirstActionGame.log
+MyFirstActionGame/Saved/Logs/MyFirstActionGame-backup-2024.11.08-17.38.56.log
+MyFirstActionGame/Saved/Crashes/UECC-Windows-6DA20B224D819AA1A2766E841A208444_0000/UEMinidump.dmp
+MyFirstActionGame/Saved/Crashes/UECC-Windows-6DA20B224D819AA1A2766E841A208444_0000/MyFirstActionGame.log
+MyFirstActionGame/Saved/Crashes/UECC-Windows-6DA20B224D819AA1A2766E841A208444_0000/CrashReportClient.ini
+MyFirstActionGame/Saved/Crashes/UECC-Windows-6DA20B224D819AA1A2766E841A208444_0000/CrashContext.runtime-xml
+MyFirstActionGame/Saved/Telemetry/Telemetry.json
+MyFirstActionGame/Saved/Logs/MyFirstActionGame.log
+*.log
